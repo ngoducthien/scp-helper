@@ -6,8 +6,7 @@
 ## Usage
 To use **SCP-Helper**, follow these steps:
 
-1. **Prepare the Configuration File**:
-
+1. **Prepare the Configuration File**: 
 Create a JSON configuration file named `config.json` in the same directory as `scp_helper.sh`. The file should contain the following structure:
 
    ```json
